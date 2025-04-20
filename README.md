@@ -20,7 +20,7 @@ We tried to combine mods from lots of independent (and not so much) developers t
      ```
      (Just enter this path into Explorer)
 
-   * On Linux
+   * On Linux:
      Depends on the launcher. Best rule of thumb would be to click a button to show game files.
 3) Install mods
    This modpack was made in mind of modularity to give you a choice to install only the mods that you want.
