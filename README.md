@@ -1,4 +1,4 @@
-# Rawoochat-s-Expanded-Vanilla
+# Rawoochat's Expanded Vanilla
 Another modpack with Vanilla feel. Just with our view of things :D
 ## Description
 Rawoochat's always cherished the simple and straightforward nature of Minecraft with absolute freedom for creativity and entertainment.
