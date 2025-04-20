@@ -17,7 +17,7 @@ We tried to combine mods from lots of independent (and not so much) developers t
 3) Unpack the repository into your game's folder
    
    * On OS Windows:
-   * 
+     
      Generally in AppData
      
      ```bash
@@ -33,7 +33,6 @@ We tried to combine mods from lots of independent (and not so much) developers t
 5) Install mods
 
    This modpack was made in mind of modularity to give you a choice to install only the mods that you want.
-
    To achieve this we've split the mods into cathegories:
    * Core - Libraries and mods would benefit client- and server-side;
    * Client-side - Graphical, QoL, sound, etc. mods that only need to be installed on client-side. Also take a look at subfolders;
