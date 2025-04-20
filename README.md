@@ -23,12 +23,10 @@ We tried to combine mods from lots of independent (and not so much) developers t
      ```bash
      %appdata%/.minecraft
      ```
-     
-     (Just enter this path into Explorer)
 
    * On Linux:
      
-     Depends on the launcher. Best rule of thumb would be to click a button to show game files.
+     Depends on the launcher. Rule of thumb would be to click a button to show game files in your launcher of choice.
      
 5) Install mods
 
