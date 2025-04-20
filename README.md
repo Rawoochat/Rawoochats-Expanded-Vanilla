@@ -25,7 +25,7 @@ We tried to combine mods from lots of independent (and not so much) developers t
 3) Install mods
    This modpack was made in mind of modularity to give you a choice to install only the mods that you want.
    To achieve this we've split the mods into cathegories:
-   * 0. Core -- Mods that would be beneficial to have on both client- and server-side and libraries;
-   * 1. Client-side -- Mods that you may only need on client-side. Graphical and QoL mods;
-   * 2. Server-side -- Mods that only have to be installed on server-side. Various worldgen and strucrtures mods and server-side fixes;
+   * Core -- Mods that would be beneficial to have on both client- and server-side and libraries;
+   * Client-side -- Mods that you may only need on client-side. Graphical and QoL mods;
+   * Server-side -- Mods that only have to be installed on server-side. Various worldgen and strucrtures mods and server-side fixes;
 4) 
