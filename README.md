@@ -94,19 +94,19 @@ Here is the list of all the mods separated into cathegories.
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)  
 - [First-person Model](https://modrinth.com/mod/first-person-model)  
 - [Iris Shaders](https://modrinth.com/mod/iris)  
-- [Make Bubbles Pop](https://modrinth.com/mod/make-bubbles-pop)  
-- [NotEnoughAnimations](https://modrinth.com/mod/notenoughanimations)  
-- [SkinLayers3D](https://modrinth.com/mod/skinlayers3d)  
+- [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)  
+- [NotEnoughAnimations](https://modrinth.com/mod/not-enough-animations)  
+- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)  
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)  
 - [Visuality](https://modrinth.com/mod/visuality)  
-- [Wavey Capes](https://modrinth.com/mod/waveycapes)  
+- [Wavey Capes](https://modrinth.com/mod/wavey-capes)  
 
 #### QoL
 - [BetterF3](https://modrinth.com/mod/betterf3)  
 - [Jade](https://modrinth.com/mod/jade)  
 - [AppleSkin](https://modrinth.com/mod/appleskin)  
-- [BetterStats](https://modrinth.com/mod/betterstats)  
-- [Cherished Worlds](https://modrinth.com/mod/cherishedworlds)  
+- [BetterStats](https://modrinth.com/mod/better-stats)  
+- [Cherished Worlds](https://modrinth.com/mod/cherished-worlds)  
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)  
 - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)  
 - [Item Swapper](https://modrinth.com/mod/itemswapper)  
@@ -117,42 +117,42 @@ Here is the list of all the mods separated into cathegories.
 
 #### Tweaks and patches
 - [Chat Patches](https://modrinth.com/mod/chatpatches)  
-- [Client Tweaks](https://modrinth.com/mod/clienttweaks)  
+- [Client Tweaks](https://modrinth.com/mod/client-tweaks)  
 - [Raised](https://modrinth.com/mod/raised)  
 
 #### Miscellaneous
 - [CraftPresence](https://modrinth.com/mod/craftpresence)  
-- [Default Options](https://modrinth.com/mod/defaultoptions)  
+- [Default Options](https://modrinth.com/mod/default-options)  
 - [Do A Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)  
 - [Held Item Info](https://modrinth.com/mod/held-item-info)  
 - [Midnight Controls](https://modrinth.com/mod/midnightcontrols)  
 
 ### Server-side
-- [Axes Are Weapons](https://modrinth.com/mod/axesareweapons)
+- [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
 - [Boids](https://modrinth.com/mod/boids)
-- [Falling Tree](https://modrinth.com/mod/falling-tree)
+- [Falling Tree](https://modrinth.com/mod/fallingtree)
 - [Alternate Current](https://modrinth.com/mod/alternate-current)
-- [C2ME (Concurrent Chunk Management Engine)](https://modrinth.com/mod/c2me)
+- [C2ME (Concurrent Chunk Management Engine)](https://modrinth.com/mod/c2me-fabric)
 - [Carpet Extra](https://modrinth.com/mod/carpet-extra)
 - [Convenient Mobgriefing](https://modrinth.com/mod/convenient-mobgriefing)
 - [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights)
-- [Carpet](https://modrinth.com/mod/fabric-carpet)
-- [Universal Graves](https://modrinth.com/mod/graves)
+- [Carpet](https://modrinth.com/mod/carpet)
+- [Universal Graves](https://modrinth.com/mod/universal-graves)
 - [IndyPets - Independent Pets](https://modrinth.com/mod/indypets)
-- [Let Me Despawn](https://modrinth.com/mod/letmedespawn)
-- [Better Nether Map](https://modrinth.com/mod/nethermap)
+- [Let Me Despawn](https://modrinth.com/plugin/lmd)
+- [Better Nether Map](https://modrinth.com/mod/better-nether-map)
 - [Nether Portal Fix](https://modrinth.com/mod/netherportalfix)
 - [Noisium](https://modrinth.com/mod/noisium)
 - [ServerCore](https://modrinth.com/mod/servercore)
 - [True Ending](https://modrinth.com/mod/true-ending)
-- [Very Many Players (Fabric)](https://modrinth.com/mod/vmp)
+- [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)
 
 #### Worldgen
 - [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo)
 
 #### Structures
 - [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns)
-- [Towns and Towers](https://modrinth.com/mod/t-and-t)
+- [Towns and Towers](https://modrinth.com/mod/towns-and-towers)
 
 #### Miscellaneous
 - [KleeSlabs](https://modrinth.com/mod/kleeslabs)
