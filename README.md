@@ -136,7 +136,7 @@ Here is the list of all the mods separated into cathegories.
 - [Carpet Extra](https://modrinth.com/mod/carpet-extra)
 - [Convenient Mobgriefing](https://modrinth.com/mod/convenient-mobgriefing)
 - [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights)
-- [Fabric Carpet](https://modrinth.com/mod/fabric-carpet)
+- [Carpet](https://modrinth.com/mod/fabric-carpet)
 - [Universal Graves](https://modrinth.com/mod/graves)
 - [IndyPets - Independent Pets](https://modrinth.com/mod/indypets)
 - [Let Me Despawn](https://modrinth.com/mod/letmedespawn)
