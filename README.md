@@ -203,8 +203,8 @@ Here is the list of all the mods separated into cathegories.
 ### Server utilities
 - [Chunky](https://modrinth.com/mod/chunky)
 - [LuckPerms](https://modrinth.com/mod/luckperms)
-- [First Join Message](https://modrinth.com/mod/firstjoinmessage)
+- [First Join Message](https://modrinth.com/mod/first-join-message)
 - [SkinRestorer](https://modrinth.com/mod/skinrestorer)
-- [Starter Kit](https://modrinth.com/mod/starterkit)
-- [Welcome Message](https://modrinth.com/mod/welcomemessage)
-- [WorldEdit](https://modrinth.com/mod/worldedit)  
+- [Starter Kit](https://modrinth.com/mod/starter-kit)
+- [Welcome Message](https://modrinth.com/mod/welcome-message)
+- [WorldEdit](https://modrinth.com/mod/worldedit)
