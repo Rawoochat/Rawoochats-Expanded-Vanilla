@@ -199,3 +199,12 @@ Here is the list of all the mods separated into cathegories.
 - [Weaker Spiderwebs](https://modrinth.com/mod/weaker-spiderwebs)
 - [Wool Tweaks](https://modrinth.com/mod/wool-tweaks)
 - [Zombie Horse Spawn](https://modrinth.com/mod/zombie-horse-spawn)
+
+### Server utilities
+- [Chunky](https://modrinth.com/mod/chunky)
+- [LuckPerms](https://modrinth.com/mod/luckperms)
+- [First Join Message](https://modrinth.com/mod/first-join-message)
+- [SkinRestorer](https://modrinth.com/mod/skinrestorer)
+- [Starter Kit](https://modrinth.com/mod/starter-kit)
+- [Welcome Message](https://modrinth.com/mod/welcome-message)
+- [WorldEdit](https://modrinth.com/mod/worldedit)
