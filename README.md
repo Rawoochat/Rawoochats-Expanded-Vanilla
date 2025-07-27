@@ -66,6 +66,140 @@ Here is the list of all the mods separated into cathegories.
 * [UniLib](modrinth.com/mod/unilib)
 * [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
 
+### Client-side
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)  
+- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)  
+- [Cull Leaves](https://modrinth.com/mod/cull-leaves)  
+- [Entity Culling](https://modrinth.com/mod/entityculling)  
+- [Model Fix](https://modrinth.com/mod/modelfix)  
+- [Mod Menu](https://modrinth.com/mod/modmenu)  
+- [More Culling](https://modrinth.com/mod/moreculling)  
+- [Reese’s Sodium Options](https://modrinth.com/mod/reeses-sodium-options)  
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra)  
+- [Sodium](https://modrinth.com/mod/sodium)
+
+#### Optifine alternatives
+- [Animatica (v0.6.1+1.21)](https://modrinth.com/mod/animatica)  
+- [Entity Model Features](https://modrinth.com/mod/entity-model-features)  
+- [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)  
+- [OptiGUI](https://modrinth.com/mod/optigui)  
+- [Puzzle](https://modrinth.com/mod/puzzle)
+
+#### Graphics and sounds
+- [Drip Sounds](https://modrinth.com/mod/dripsounds)  
+- [Atmosfera](https://modrinth.com/mod/atmosfera)  
+- [Better Biome Blend](https://modrinth.com/mod/bbrb)  
+- [Blur+](https://modrinth.com/mod/blur-plus)  
+- [Dyed](https://modrinth.com/mod/dyed)  
+- [Falling Leaves](https://modrinth.com/mod/fallingleaves)  
+- [First-person Model](https://modrinth.com/mod/first-person-model)  
+- [Iris Shaders](https://modrinth.com/mod/iris)  
+- [Make Bubbles Pop](https://modrinth.com/mod/make-bubbles-pop)  
+- [NotEnoughAnimations](https://modrinth.com/mod/notenoughanimations)  
+- [SkinLayers3D](https://modrinth.com/mod/skinlayers3d)  
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)  
+- [Visuality](https://modrinth.com/mod/visuality)  
+- [Wavey Capes](https://modrinth.com/mod/waveycapes)  
+
+#### QoL
+- [BetterF3](https://modrinth.com/mod/betterf3)  
+- [Jade](https://modrinth.com/mod/jade)  
+- [AppleSkin](https://modrinth.com/mod/appleskin)  
+- [BetterStats](https://modrinth.com/mod/betterstats)  
+- [Cherished Worlds](https://modrinth.com/mod/cherishedworlds)  
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)  
+- [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)  
+- [Item Swapper](https://modrinth.com/mod/itemswapper)  
+- [Language Reload](https://modrinth.com/mod/language-reload)  
+- [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)  
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)  
+- [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)  
+
+#### Tweaks and patches
+- [Chat Patches](https://modrinth.com/mod/chatpatches)  
+- [Client Tweaks](https://modrinth.com/mod/clienttweaks)  
+- [Raised](https://modrinth.com/mod/raised)  
+
+#### Miscellaneous
+- [CraftPresence](https://modrinth.com/mod/craftpresence)  
+- [Default Options](https://modrinth.com/mod/defaultoptions)  
+- [Do A Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)  
+- [Held Item Info](https://modrinth.com/mod/held-item-info)  
+- [Midnight Controls](https://modrinth.com/mod/midnightcontrols)  
+
+### Server-side
+- [Axes Are Weapons](https://modrinth.com/mod/axesareweapons)
+- [Boids](https://modrinth.com/mod/boids)
+- [Falling Tree](https://modrinth.com/mod/falling-tree)
+- [Alternate Current](https://modrinth.com/mod/alternate-current)
+- [C2ME (Concurrent Chunk Management Engine)](https://modrinth.com/mod/c2me)
+- [Carpet Extra](https://modrinth.com/mod/carpet-extra)
+- [Convenient Mobgriefing](https://modrinth.com/mod/convenient-mobgriefing)
+- [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights)
+- [Carpet](https://modrinth.com/mod/fabric-carpet)
+- [Universal Graves](https://modrinth.com/mod/graves)
+- [IndyPets - Independent Pets](https://modrinth.com/mod/indypets)
+- [Let Me Despawn](https://modrinth.com/mod/letmedespawn)
+- [Better Nether Map](https://modrinth.com/mod/nethermap)
+- [Nether Portal Fix](https://modrinth.com/mod/netherportalfix)
+- [Noisium](https://modrinth.com/mod/noisium)
+- [ServerCore](https://modrinth.com/mod/servercore)
+- [True Ending](https://modrinth.com/mod/true-ending)
+- [Very Many Players (Fabric)](https://modrinth.com/mod/vmp)
+
+#### Worldgen
+- [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo)
+
+#### Structures
+- [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns)
+- [Towns and Towers](https://modrinth.com/mod/t-and-t)
+
+#### Miscellaneous
+- [KleeSlabs](https://modrinth.com/mod/kleeslabs)
+
+### Serillum
+#### Client-side
+- [Gui Clock](https://modrinth.com/mod/gui-clock)
+- [Gui Compass](https://modrinth.com/mod/gui-compass)
+- [Gui Followers](https://modrinth.com/mod/gui-followers)
+
+#### Server-side
+- [Anvil Restoration](https://modrinth.com/mod/anvil-restoration)
+- [Better Beacon Placement](https://modrinth.com/mod/better-beacon-placement)
+- [Better Conduit Placement](https://modrinth.com/mod/better-conduit-placement)
+- [Better Spawner Control](https://modrinth.com/mod/better-spawner-control)
+- [Chorus Fruit Drops Nearby](https://modrinth.com/mod/chorus-fruit-drops-nearby)
+- [Conduits Prevent Drowned](https://modrinth.com/mod/conduits-prevent-drowned)
+- [Crying Ghasts](https://modrinth.com/mod/crying-ghasts)
+- [Crying Portals](https://modrinth.com/mod/crying-portals)
+- [Despawning Eggs Hatch](https://modrinth.com/mod/despawning-eggs-hatch)
+- [Dismount Entity](https://modrinth.com/mod/dismount-entity)
+- [Double Doors](https://modrinth.com/mod/double-doors)
+- [Dragon Drops Elytra](https://modrinth.com/mod/dragon-drops-elytra)
+- [Easy Elytra Takeoff](https://modrinth.com/mod/easy-elytra-takeoff)
+- [Eroding Stone Entities](https://modrinth.com/mod/eroding-stone-entities)
+- [Extended Bonemeal](https://modrinth.com/mod/extended-bone-meal)
+- [Extract Poison](https://modrinth.com/mod/extract-poison)
+- [Fish On The Line](https://modrinth.com/mod/fish-on-the-line)
+- [Fixed Anvil Repair Cost](https://modrinth.com/mod/fixed-anvil-repair-cost)
+- [Followers Teleport Too](https://modrinth.com/mod/followers-teleport-too)
+- [Grabby Mobs](https://modrinth.com/mod/grabby-mobs)
+- [Grass Seeds](https://modrinth.com/mod/grass-seeds)
+- [Hoe Tweaks](https://modrinth.com/mod/hoe-tweaks)
+- [Ice Prevents Crop Growth](https://modrinth.com/mod/ice-prevents-crop-growth)
+- [Keep My Soil Tilled](https://modrinth.com/mod/keep-my-soil-tilled)
+- [Kelp Fertilizer](https://modrinth.com/mod/kelp-fertilizer)
+- [Move Boats](https://modrinth.com/mod/move-boats)
+- [Nether Portal Spread](https://modrinth.com/mod/nether-portal-spread)
+- [No Hostiles Around Campfire](https://modrinth.com/mod/no-hostiles-around-campfire)
+- [Random Bonemeal Flowers](https://modrinth.com/mod/random-bone-meal-flowers)
+- [Respawning Shulkers](https://modrinth.com/mod/respawning-shulkers)
+- [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby)
+- [Skeleton Horse Spawn](https://modrinth.com/mod/skeleton-horse-spawn)
+- [Weaker Spiderwebs](https://modrinth.com/mod/weaker-spiderwebs)
+- [Wool Tweaks](https://modrinth.com/mod/wool-tweaks)
+- [Zombie Horse Spawn](https://modrinth.com/mod/zombie-horse-spawn)
+
 ### Server utilities
 - [Chunky](https://modrinth.com/mod/chunky)
 - [LuckPerms](https://modrinth.com/mod/luckperms)
