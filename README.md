@@ -135,7 +135,7 @@ Here is the list of all the mods separated into cathegories.
 - [C2ME (Concurrent Chunk Management Engine)](https://modrinth.com/mod/c2me)
 - [Carpet Extra](https://modrinth.com/mod/carpet-extra)
 - [Convenient Mobgriefing](https://modrinth.com/mod/convenient-mobgriefing)
-- [Dynamic Lights](https://modrinth.com/mod/dynamiclights)
+- [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights)
 - [Fabric Carpet](https://modrinth.com/mod/fabric-carpet)
 - [Universal Graves](https://modrinth.com/mod/graves)
 - [IndyPets - Independent Pets](https://modrinth.com/mod/indypets)
@@ -145,7 +145,7 @@ Here is the list of all the mods separated into cathegories.
 - [Noisium](https://modrinth.com/mod/noisium)
 - [ServerCore](https://modrinth.com/mod/servercore)
 - [True Ending](https://modrinth.com/mod/true-ending)
-- [VMP](https://modrinth.com/mod/vmp)
+- [Very Many Players (Fabric)](https://modrinth.com/mod/vmp)
 
 #### Worldgen
 - [William Wythers](https://modrinth.com/mod/wwoo)
