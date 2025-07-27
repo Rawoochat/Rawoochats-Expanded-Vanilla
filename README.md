@@ -140,7 +140,7 @@ Here is the list of all the mods separated into cathegories.
 - [Graves](https://modrinth.com/mod/graves)
 - [Indy Pets](https://modrinth.com/mod/indypets)
 - [Let Me Despawn](https://modrinth.com/mod/letmedespawn)
-- [Nether Map](https://modrinth.com/mod/nethermap)
+- [Better Nether Map](https://modrinth.com/mod/nethermap)
 - [Nether Portal Fix](https://modrinth.com/mod/netherportalfix)
 - [Noisium](https://modrinth.com/mod/noisium)
 - [ServerCore](https://modrinth.com/mod/servercore)
@@ -148,11 +148,11 @@ Here is the list of all the mods separated into cathegories.
 - [VMP](https://modrinth.com/mod/vmp)
 
 #### Worldgen
-- [WWOO](https://modrinth.com/mod/wwoo)
+- [William Wythers](https://modrinth.com/mod/wwoo)
 
 #### Structures
 - [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns)
-- [T and T (Taverns and Temples)](https://modrinth.com/mod/t-and-t)
+- [Towns and Towers](https://modrinth.com/mod/t-and-t)
 
 #### Miscellaneous
 - [KleeSlabs](https://modrinth.com/mod/kleeslabs)
