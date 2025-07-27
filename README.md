@@ -65,3 +65,64 @@ Here is the list of all the mods separated into cathegories.
 * [TCDCommons API](https://modrinth.com/mod/tcdcommons)
 * [UniLib](modrinth.com/mod/unilib)
 * [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
+
+### Client-side
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)  
+- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)  
+- [Cull Leaves](https://modrinth.com/mod/cull-leaves)  
+- [Entity Culling](https://modrinth.com/mod/entityculling)  
+- [Model Fix](https://modrinth.com/mod/modelfix)  
+- [Mod Menu](https://modrinth.com/mod/modmenu)  
+- [More Culling](https://modrinth.com/mod/moreculling)  
+- [Reese’s Sodium Options](https://modrinth.com/mod/reeses-sodium-options)  
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra)  
+- [Sodium](https://modrinth.com/mod/sodium)
+
+#### Optifine alternatives
+- [Animatica (v0.6.1+1.21)](https://modrinth.com/mod/animatica)  
+- [Entity Model Features](https://modrinth.com/mod/entity-model-features)  
+- [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)  
+- [OptiGUI](https://modrinth.com/mod/optigui)  
+- [Puzzle](https://modrinth.com/mod/puzzle)
+
+#### Graphics and sounds
+- [Drip Sounds](https://modrinth.com/mod/dripsounds)  
+- [Atmosfera](https://modrinth.com/mod/atmosfera)  
+- [Better Biome Blend](https://modrinth.com/mod/bbrb)  
+- [Blur+](https://modrinth.com/mod/blur-plus)  
+- [Dyed](https://modrinth.com/mod/dyed)  
+- [Falling Leaves](https://modrinth.com/mod/fallingleaves)  
+- [First-person Model](https://modrinth.com/mod/first-person-model)  
+- [Iris Shaders](https://modrinth.com/mod/iris)  
+- [Make Bubbles Pop](https://modrinth.com/mod/make-bubbles-pop)  
+- [NotEnoughAnimations](https://modrinth.com/mod/notenoughanimations)  
+- [SkinLayers3D](https://modrinth.com/mod/skinlayers3d)  
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)  
+- [Visuality](https://modrinth.com/mod/visuality)  
+- [Wavey Capes](https://modrinth.com/mod/waveycapes)  
+
+#### QoL
+- [BetterF3](https://modrinth.com/mod/betterf3)  
+- [Jade](https://modrinth.com/mod/jade)  
+- [AppleSkin](https://modrinth.com/mod/appleskin)  
+- [BetterStats](https://modrinth.com/mod/betterstats)  
+- [Cherished Worlds](https://modrinth.com/mod/cherishedworlds)  
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)  
+- [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)  
+- [Item Swapper](https://modrinth.com/mod/itemswapper)  
+- [Language Reload](https://modrinth.com/mod/language-reload)  
+- [Nametag Tweaks](https://modrinth.com/mod/nametagtweaks)  
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)  
+- [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)  
+
+#### Tweaks and patches
+- [Chat Patches](https://modrinth.com/mod/chatpatches)  
+- [Client Tweaks](https://modrinth.com/mod/clienttweaks)  
+- [Raised](https://modrinth.com/mod/raised)  
+
+#### Miscellaneous
+- [CraftPresence](https://modrinth.com/mod/craftpresence)  
+- [Default Options](https://modrinth.com/mod/defaultoptions)  
+- [Do A Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)  
+- [Held Item Info](https://modrinth.com/mod/held-item-info)  
+- [Midnight Controls](https://modrinth.com/mod/midnightcontrols)  
