@@ -37,7 +37,6 @@ We tried to combine mods from lots of independent (and not so much) developers t
    * Server-side - Worldgen, structure mods and fixes;
    * Serillum - A lot of QoL mods/datapacks by Serillum;
    * Server utilities - Permissions, maps and useful plugins;
-   * Miscellaneous - Mods that don't really fit in any of previous cathegories.
      
 6) Launch the game and have fun!
 
@@ -46,4 +45,23 @@ We tried to combine mods from lots of independent (and not so much) developers t
 Here is the list of all the mods separated into cathegories.
 
 ### Core
-1) 
+* [Almanac](https://modrinth.com/mod/almanac)
+* [Architectury API](https://modrinth.com/mod/architectury-api)
+* [Balm](https://modrinth.com/mod/balm)
+* [CICADA](https://modrinth.com/mod/cicada)
+* [Cloth Config API](https://modrinth.com/mod/cloth-config)
+* [Collective](https://modrinth.com/mod/collective)
+* [Cristel Lib](https://modrinth.com/mod/cristel-lib)
+* [Distant Horizons](https://modrinth.com/mod/distanthorizons) - DH provides both client and server functionality. Clients may remove this mod if desired.
+* [Fabric API](modrinth.com/mod/fabric-api)
+* [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+* [Ferrite Core](https://modrinth.com/mod/ferrite-core)
+* [Krypton](https://modrinth.com/mod/krypton)
+* [libIPN](https://modrinth.com/mod/libipn)
+* [Lithium](https://modrinth.com/mod/lithium)
+* [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Roughly Enough Items](https://modrinth.com/mod/rei) - REI may be required on the server-side in order to apply recipes.
+* [ScalableLux](https://modrinth.com/mod/scalablelux)
+* [TCDCommons API](https://modrinth.com/mod/tcdcommons)
+* [UniLib](modrinth.com/mod/unilib)
+* [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
