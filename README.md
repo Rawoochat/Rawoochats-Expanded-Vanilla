@@ -126,3 +126,33 @@ Here is the list of all the mods separated into cathegories.
 - [Do A Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)  
 - [Held Item Info](https://modrinth.com/mod/held-item-info)  
 - [Midnight Controls](https://modrinth.com/mod/midnightcontrols)  
+
+### Server-side
+- [Axes Are Weapons](https://modrinth.com/mod/axesareweapons)
+- [Boids](https://modrinth.com/mod/boids)
+- [Falling Tree](https://modrinth.com/mod/falling-tree)
+- [Alternate Current](https://modrinth.com/mod/alternate-current)
+- [C2ME (Concurrent Chunk Management Engine)](https://modrinth.com/mod/c2me)
+- [Carpet Extra](https://modrinth.com/mod/carpet-extra)
+- [Convenient Mobgriefing](https://modrinth.com/mod/convenient-mobgriefing)
+- [Dynamic Lights](https://modrinth.com/mod/dynamiclights)
+- [Fabric Carpet](https://modrinth.com/mod/fabric-carpet)
+- [Graves](https://modrinth.com/mod/graves)
+- [Indy Pets](https://modrinth.com/mod/indypets)
+- [Let Me Despawn](https://modrinth.com/mod/letmedespawn)
+- [Nether Map](https://modrinth.com/mod/nethermap)
+- [Nether Portal Fix](https://modrinth.com/mod/netherportalfix)
+- [Noisium](https://modrinth.com/mod/noisium)
+- [ServerCore](https://modrinth.com/mod/servercore)
+- [True Ending](https://modrinth.com/mod/true-ending)
+- [VMP](https://modrinth.com/mod/vmp)
+
+#### Worldgen
+- [WWOO](https://modrinth.com/mod/wwoo)
+
+#### Structures
+- [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns)
+- [T and T (Taverns and Temples)](https://modrinth.com/mod/t-and-t)
+
+#### Miscellaneous
+- [KleeSlabs](https://modrinth.com/mod/kleeslabs)
