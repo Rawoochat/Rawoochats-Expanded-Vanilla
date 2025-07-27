@@ -148,7 +148,7 @@ Here is the list of all the mods separated into cathegories.
 - [Very Many Players (Fabric)](https://modrinth.com/mod/vmp)
 
 #### Worldgen
-- [William Wythers](https://modrinth.com/mod/wwoo)
+- [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo)
 
 #### Structures
 - [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns)
