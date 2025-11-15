@@ -1,7 +1,7 @@
 /*
-This config file makes it possible to switch off any structure from Towns and Towers. Big thanks to Cristelknight for making this all possible.
+This config makes it possible to switch off any structure from Towns and Towers.
 To disable a structure, simply set the value of that structure to "false".
-o change the rarity of a structure category, use the other file in the config.
+To change the rarity of a structure category, use the other config.
 
 LINKS
 =====

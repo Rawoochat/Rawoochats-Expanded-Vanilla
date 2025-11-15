@@ -14,12 +14,7 @@
   },
   "hitParticlesEnabled": true,
   "hitParticleEntries": [
-    "minecraft:skeleton/visuality:bone",
-    "minecraft:skeleton_horse/visuality:bone",
-    "minecraft:stray/visuality:bone",
-    "minecraft:wither_skeleton/visuality:wither_bone",
-    "minecraft:chicken/visuality:feather",
-    "minecraft:villager/visuality:emerald"
+    "minecraft:chicken/visuality:feather"
   ],
   "shinyArmorEnabled": true,
   "shinyArmorEntries": [

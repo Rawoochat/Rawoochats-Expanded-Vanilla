@@ -11,7 +11,7 @@
 	"compassPositionIsRight": false,
 	// The vertical offset (y coord) for the Compass. This determines how far down the time should be on the screen. Can be changed to prevent GUIs from overlapping.
 	// min: 0, max: 3000
-	"compassHeightOffset": 5,
+	"compassHeightOffset": 30,
 	// If the text displayed should have a shadow drawn below it.
 	"drawTextShadow": true,
 	// The red RGB value for the compass text.

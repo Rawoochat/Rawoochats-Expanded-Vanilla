@@ -1,6 +1,6 @@
 {
   "_schemaVersion": 7,
-  "_lastMCVersionId": 771,
+  "_lastMCVersionId": 773,
   "generalSettings": {
     "detectATLauncherInstance": true,
     "detectCurseManifest": true,
@@ -108,7 +108,7 @@
     "stripTranslationColors": false,
     "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
-    "configKeyCode": -1
+    "configKeyCode": 96
   },
   "displaySettings": {
     "presenceData": {

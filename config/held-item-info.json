@@ -9,6 +9,7 @@
   "baseFadeDuration": 2.0,
   "fadeDurationPerExtraLine": 0.2,
   "preventOverlap": true,
+  "tooltipBackgroundVisibility": "VANILLA",
   "showName": true,
   "showEnchantments": true,
   "showPotionEffects": true,

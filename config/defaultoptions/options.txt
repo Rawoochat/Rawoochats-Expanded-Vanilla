@@ -1,4 +1,4 @@
-version:4435
+version:4556
 betterBiomeBlendRadius:14
 ao:true
 biomeBlendRadius:7
@@ -37,6 +37,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 discrete_mouse_scroll:false
+invertXMouse:false
 invertYMouse:false
 realmsNotifications:true
 showSubtitles:false
@@ -45,6 +46,9 @@ touchscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
+toggleAttack:false
+toggleUse:false
+sprintWindow:7
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
@@ -53,8 +57,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","$polymer-resources","itemswapper:default","file/FreshAnimations_v1.9.4.zip","file/FA+All_Extensions-v1.5.2.zip","cullleaves:smartleaves","file/Better-Leaves-9.2.zip","atmosfera:dungeons","file/Recolourful Containers 2.1.1 (1.19.4+).zip"]
-incompatibleResourcePacks:["appleskin","balm","betterbiomeblend","betterstats","cherishedworlds","clienttweaks","defaultoptions","do_a_barrel_roll","guifollowers","jade","kleeslabs","mr_dungeons_andtaverns","netherportalfix","skinrestorer","starterkit","tcdcommons","worldedit","yet_another_config_lib_v3","atmosfera:dungeons"]
+resourcePacks:["vanilla","fabric","$polymer-resources","file/Fast Better Grass.zip","file/SodiumTranslations.zip","atmosfera:dungeons","itemswapper:default","cullleaves:smartleaves","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/Recolourful Containers 2.1.2 (1.19.4+).zip","file/Os\u0027 Colorful Grasses (Mojang Style).zip","file/Fancy Crops v1.3.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip","file/Better Lanterns v1.2 - 1.21.7.zip","file/EvenBetterEnchants_v2.1_1.21.5+.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/Os\u0027 Colorful Grasses (Mojang Style).zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip","file/Better Lanterns v1.2 - 1.21.7.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -63,7 +67,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -79,14 +83,16 @@ attackIndicator:1
 tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
+allowCursorChanges:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
+saveChatDrafts:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false

@@ -9,7 +9,6 @@
     "textBackgroundOpacity": 0.0,
     "flipMainHand": false,
     "narrateKeys": false,
-    "noKeyConflict": false,
     "enableTextToSpeech": false,
     "ttsMode": "TOGGLE",
     "enableAccessibilityPlugin": false
@@ -34,6 +33,7 @@
       "tnt_stability": true,
       "item_storage.items_per_line": 9,
       "item_frame": true,
+      "shelf": true,
       "crop_progress": true,
       "command_block": true,
       "mob_growth": true,
@@ -46,6 +46,7 @@
       "fluid_storage": true,
       "jukebox": true,
       "brewing_stand": true,
+      "potion_effects.limit": 7,
       "energy_storage.detailed": false,
       "note_block": true,
       "fluid_storage.style": "PROGRESS_BAR",
@@ -66,10 +67,11 @@
       "entity_health.icons_per_line": 10,
       "total_enchantment_power": true,
       "potion_effects": true,
-      "painting": true,
-      "chiseled_bookshelf": true
+      "item_storage.sort": false,
+      "painting": true
     },
     "jade_access": {
+      "npc_description": true,
       "held_item": true,
       "sign": true,
       "block": true,
