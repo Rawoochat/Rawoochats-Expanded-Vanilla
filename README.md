@@ -1,11 +1,14 @@
 # Rawoochat's Expanded Vanilla
-Another modpack with Vanilla feel. Just with our view of things :D
-## Description
-Rawoochat's always cherished the simple and straightforward nature of Minecraft with absolute freedom for creativity and entertainment.
-Alas, we do accept the fact this game is nowhere near perfect and there's a lot of things we'd like to have changed.
-Luckly, Minecraft has one of the biggest and absolutely amazing modding community which can provide us with anything we could have asked for.
 
-We tried to combine mods from lots of independent (and not so much) developers to enhance Minecraft while keeping the feel of it.
+Another Vanilla+ modpack, eh?
+
+## Prelude
+
+Minecraft is a cult game and while it is simple, straightforward and intuitive, we find it a bit lackluster in temrs of functionality, QoL and graphics. Luckly, Minecraft's modding community is awesome and can provide us with everything we miss!
+
+## Yeah, makes sense. What's next?
+
+This modpack aims to bring up the original to modern standards while keeping the familiar look and feel.
 
 ## Installation
 1) Clone or download the repository:
@@ -26,7 +29,7 @@ We tried to combine mods from lots of independent (and not so much) developers t
 
    * On Linux:
      
-     Depends on the launcher. Rule of thumb would be to click a button to show game files in your launcher of choice.
+     Depends on the launcher. Generally, there should be a button to show game files.
      
 5) Install mods
 
