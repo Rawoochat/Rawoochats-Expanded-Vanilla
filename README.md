@@ -80,13 +80,13 @@ Here is the list of all the mods separated into cathegories.
 
 #### Optifine alternatives
 - [Animatica (v0.6.1+1.21)](https://modrinth.com/mod/animatica)  
-- [Entity Model Features](https://modrinth.com/mod/entity-model-features)  
+- [Entity Model Features](https://modrinth.com/mod/entity-model-features)
+- [Entity Sound Featuers](https://modrinth.com/mod/esf)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)  
 - [OptiGUI](https://modrinth.com/mod/optigui)  
 - [Puzzle](https://modrinth.com/mod/puzzle)
 
-#### Graphics and sounds
-- [Drip Sounds](https://modrinth.com/mod/dripsounds)  
+#### Graphics and sounds  
 - [Atmosfera](https://modrinth.com/mod/atmosfera)  
 - [Better Biome Blend](https://modrinth.com/mod/bbrb)  
 - [Blur+](https://modrinth.com/mod/blur-plus)  
@@ -161,7 +161,6 @@ Here is the list of all the mods separated into cathegories.
 #### Client-side
 - [Gui Clock](https://modrinth.com/mod/gui-clock)
 - [Gui Compass](https://modrinth.com/mod/gui-compass)
-- [Gui Followers](https://modrinth.com/mod/gui-followers)
 
 #### Server-side
 - [Anvil Restoration](https://modrinth.com/mod/anvil-restoration)
@@ -202,6 +201,8 @@ Here is the list of all the mods separated into cathegories.
 
 ### Server utilities
 - [Chunky](https://modrinth.com/mod/chunky)
+- [EasyAuth](https://modrinth.com/mod/easyauth)
+- [EasyWhitelist](https://modrinth.com/mod/easywhitelist)
 - [LuckPerms](https://modrinth.com/mod/luckperms)
 - [First Join Message](https://modrinth.com/mod/first-join-message)
 - [SkinRestorer](https://modrinth.com/mod/skinrestorer)
